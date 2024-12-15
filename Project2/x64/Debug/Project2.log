@@ -1,0 +1,4 @@
+﻿  MyCharacter.cpp
+E:\Sophomore\Fall\DSA\game\Project2\MyCharacter.cpp(165,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Sophomore\Fall\DSA\game\Project2\MyCharacter.cpp(166,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project2.vcxproj -> E:\Sophomore\Fall\DSA\game\Project2\x64\Debug\Project2.exe
